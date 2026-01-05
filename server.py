@@ -7,8 +7,8 @@ import requests
 from PIL import Image, ImageDraw
 
 # ===== ENV VARIABLES (SET IN RENDER) =====
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-CHAT_ID = os.getenv("CHAT_ID")
+BOT_TOKEN = os.getenv("8492553770:AAE9I4BmQYYWlWX9RXJOjgKj0h7PevTWjww")
+CHAT_ID = os.getenv("7067064621")
 
 app = Flask(__name__)
 
